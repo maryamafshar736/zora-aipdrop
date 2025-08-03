@@ -16,8 +16,6 @@
 </div>
 
 ## Introduction
-
-Zora is an open-source solution that helps you achieve compliance with Kubernetes best practices recommended by 
 industry-leading frameworks.
 
 By scanning your cluster with multiple plugins at scheduled times, Zora identifies potential issues, misconfigurations, 
