@@ -14,8 +14,7 @@
 
 </div>
 
-## Introduction
-industry-leading frameworks.
+## Introductio
 
 By scanning your cluster with multiple plugins at scheduled times, Zora identifies potential issues, misconfigurations, 
 and vulnerabilities.
