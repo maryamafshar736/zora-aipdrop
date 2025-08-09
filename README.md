@@ -3,7 +3,6 @@
 <a href="https://zora-docs.undistro.io/" target="_blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-github-dark.png">
-        <img alt="Zora logo" src="docs/assets/logo-github-light.png">
     </picture>
 </a>
 
