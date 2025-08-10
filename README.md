@@ -16,7 +16,6 @@
 
 ## Introductio
 
-By scanning your cluster with multiple plugins at scheduled times, Zora identifies potential issues, misconfigurations, 
 and vulnerabilities.
 
 _Please [star :star:](https://github.com/undistro/zora/stargazers) the repo if you want us to continue developing and improving Zora!_ :grin:
